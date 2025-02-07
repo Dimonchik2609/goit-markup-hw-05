@@ -523,7 +523,6 @@ border-top: none;
 }
  
 /*email window*/
-
 .footer-email{
   color: #ffffff;
   font-size: 12px;
@@ -675,6 +674,7 @@ fill: #ffffff;
 .iconname-wrap{
   margin-bottom: 8px;
 }
+
 .icon-modalname,
 .icon-modalemail,
 .icon-modalphone{
@@ -824,7 +824,6 @@ border-radius: 2px;
   font-size: 12px;
       letter-spacing: 0.04em;
       color: #8e8f99;
-      margin-left: 8px;
       line-height: 1.17;
 }
 
